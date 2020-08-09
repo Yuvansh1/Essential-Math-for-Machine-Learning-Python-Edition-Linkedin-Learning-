@@ -1,1 +1,1 @@
-# Essential-Math-for-Machine-Learning-Python-Edition-Linkedin-Learning-
+# Essential Math for Machine Learning using Python
